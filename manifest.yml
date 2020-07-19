@@ -1,0 +1,5 @@
+---
+applications:
+- name: chess
+  memory: 512M
+  random-route: false
